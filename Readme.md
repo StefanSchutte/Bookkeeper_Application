@@ -2,6 +2,10 @@
 ## Bookmark App
 Bookmark App is a simple web application that allows users to manage and save bookmarks for their favorite websites. Users can add, delete, and visit bookmarks with ease.
 
+![2024-01-03_20-27](https://github.com/StefanSchutte/Bookkeeper_Application/assets/127427422/de327392-a783-4ddc-afcb-2480dc082489)
+
+[Deployed Site](https://bookmark-app-stefan.netlify.app/)
+
 ### Features
 - Add Bookmark Button: Click the "Add Bookmark" button to open a modal for adding new bookmarks.
 
